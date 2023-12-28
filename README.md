@@ -1,4 +1,4 @@
-# Splunk-Projects
+# Splunk-Project
 
 ## Overview
 
